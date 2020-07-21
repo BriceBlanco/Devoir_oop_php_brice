@@ -3,5 +3,6 @@
 
     class Enfant extends Personne
     {
-        
+        //Attribut
+        private $type;
     }

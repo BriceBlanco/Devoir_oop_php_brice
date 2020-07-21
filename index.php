@@ -6,6 +6,10 @@
     <title>DEVOIR_OOP_PHP_Brice</title>
 </head>
 <body>
-    
+    <?php
+        require 'Personne/personne.php';
+        require 'Personne/Adulte.php';
+        require 'Personne/Enfant.php';
+    ?>
 </body>
 </html>

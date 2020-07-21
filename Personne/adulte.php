@@ -3,5 +3,7 @@
 
     class Adulte extends Personne
     {
-        
+        //Attribut
+        private $type;
+        private $marie;
     }
